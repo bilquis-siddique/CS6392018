@@ -15,10 +15,6 @@ Bitbucket, SourceForge, GitLab, Cloud Source, Beanstalk
 Why would you use such a platform? (Answer between 5 and 10 lines)
 Such alternative platforms are useful for people who have particular requirements that GitHub doesn’t meet. For example, some teams require security of an in-house system or prefer better pricing options. In addition, there are version control languages other than Git, which are not supported by GitHub.
 
-
-
-
-
 Part 4:
 Go through the Git tutorial here: https://try.github.io. While doing the tutorial, save your work on the file.
 
@@ -70,4 +66,8 @@ Pull - Pulling grabs any changes from the Github repository and merges them into
 
 Pull request - A pull request is used to notify others about changes you push to a repository on GitHub. Others can review and even push follow-up commits to the pull request.
 
+Part 7:
 
+Retrieve the README.md file to add my name at https://github.com/paceuniversity/courses:
+
+First, I created a fork of the courses repo in order to make changes. After adding my name to the README.md file, I proposed the file change. At this stage, the changes I made were compared to the original file. I got a message saying there were no conflicts, and then I created a pull request. The pull request will notify you, the owner of the repo, of the changes I made. 
